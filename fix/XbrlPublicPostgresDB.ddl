@@ -19753,8 +19753,8 @@ ALTER TABLE ONLY entity_name_history
 -- Name: entity_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
 --
 
-ALTER TABLE ONLY entity
-    ADD CONSTRAINT entity_pkey PRIMARY KEY (entity_id);
+-- ALTER TABLE ONLY entity
+--    ADD CONSTRAINT entity_pkey PRIMARY KEY (entity_id);
 
 
 --
